@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Headbypass - V2", "Headbypass - V2\Headbypass - V2.csproj", "{BFD8520D-499B-46F0-B05A-8499E18E9679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFD8520D-499B-46F0-B05A-8499E18E9679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD8520D-499B-46F0-B05A-8499E18E9679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD8520D-499B-46F0-B05A-8499E18E9679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD8520D-499B-46F0-B05A-8499E18E9679}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CEAD1FD-38BE-4190-A8C5-02D037AD2D36}
+	EndGlobalSection
+EndGlobal

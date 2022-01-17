@@ -1,0 +1,24 @@
+F:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\bin\Debug\Headbypass - V2.dll
+F:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\bin\Debug\Headbypass - V2.pdb
+F:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\bin\Debug\AdvancedBot.exe
+F:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\bin\Debug\Newtonsoft.Json.dll
+F:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\bin\Debug\AxInterop.WMPLib.dll
+F:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\bin\Debug\Interop.WMPLib.dll
+F:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\obj\Debug\Headbypass - V2.csprojAssemblyReference.cache
+F:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\obj\Debug\Headbypass - V2.csproj.CoreCompileInputs.cache
+F:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\obj\Debug\Headbypass - V2.csproj.CopyComplete
+F:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\obj\Debug\Headbypass - V2.dll
+F:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\obj\Debug\Headbypass - V2.pdb
+C:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\bin\Debug\Headbypass - V2.dll
+C:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\bin\Debug\Headbypass - V2.pdb
+C:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\bin\Debug\AdvancedBot.exe
+C:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\bin\Debug\Newtonsoft.Json.dll
+C:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\bin\Debug\AxInterop.WMPLib.dll
+C:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\bin\Debug\Interop.WMPLib.dll
+C:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\obj\Debug\Headbypass - V2.csprojAssemblyReference.cache
+C:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\obj\Debug\Headbypass - V2.csproj.CopyComplete
+C:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\obj\Debug\Headbypass - V2.dll
+C:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\obj\Debug\Headbypass - V2.pdb
+C:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\bin\Debug\Jint.dll
+C:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\bin\Debug\AdvancedBot.pdb
+C:\Arquivos\Documents\abot\Plugins\Headbypass - V2\Headbypass - V2\bin\Debug\AdvancedBot.exe.config
